@@ -108,8 +108,14 @@ Saves attendance log to database
 
 ## 👥 Team
 
+**Abdel Rahman, Yassin <br>
+Berrame, Raven S. <br>
+Inot, Veruska Tatiana S. <br>
+Layos, Liam Jasper <br>
+Solera, Denver I.**
+
 **Cebu Eastern College** — BS Information Technology Final Project
 
 ---
 
-> Built with ❤️ using C# ASP.NET MVC + SQLite
+
